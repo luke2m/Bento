@@ -26,7 +26,7 @@ function displayClock() {
     var ampm = '';
     
     if (format_12hour) {
-        ampm = hh >= 12 ? ' pm' : ' am';
+        ampm = hh >= 12 ? ' ' : ' ';
         hh = hh % 12;
         hh = hh ? hh : 12; //show mod 0 as 12
     }
