@@ -1,3 +1,5 @@
+# This is my personal fork which inclueds a searchbox and other modifications.
+# Please use your own api keys
 <div align="center">
 <h1>Bento</h1>
 <b>🍱 A Clean and Simple Startpage</b>
